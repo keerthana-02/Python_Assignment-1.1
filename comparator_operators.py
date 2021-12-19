@@ -8,7 +8,7 @@ a<b
 a<=c
 # greater than:
 a>c
-b>=7
+b>=c
 #equal to:
 a==c
 #not equal to:
